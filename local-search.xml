@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2024/03/26/%E4%B8%81%E5%BC%98%E6%89%AC-202100130031-%E5%AE%9E%E9%AA%8C3/"/>
+    <url>/2024/03/26/%E4%B8%81%E5%BC%98%E6%89%AC-202100130031-%E5%AE%9E%E9%AA%8C3/</url>
+    
+    <content type="html"><![CDATA[<p>山东大学 计算机科学与技术 学院</p><p>云计算技术 课程实验报告</p><table><thead><tr><th>学号：202100130031</th><th>姓名： 丁弘扬</th><th>班级： 21.1</th></tr></thead><tbody><tr><td>实验题目：利用主流云平台搭建个人博客或网站</td><td></td><td></td></tr><tr><td>实验学时：2</td><td>实验日期： 2024.3.22</td><td></td></tr><tr><td>实验目的：熟悉使用主流云平台并搭建个人博客或者网站。 具体包括： 参考方案：基于主流云平台，设计、实现个人博客或者网站的搭建，撰写实验报告（附带网站链接并可以访问），并在网站上呈现此次实验报告。</td><td></td><td></td></tr><tr><td>硬件环境：  联网的计算机一台</td><td></td><td></td></tr><tr><td>软件环境： Windows or Linux</td><td></td><td></td></tr><tr><td>实验步骤与内容： 安装git: 安装node.js: <img src="/media/05a58f8bd5480d2dc4fe8f4e159f46ae.png"> 安装hexo: <img src="/media/a283e575759f6852991909b999947601.png"> <img src="/media/c3b970268a0689de724cd63c8e3880b9.png"> 最终效果，直接访问仓库地址 <img src="/media/dcbdbbe436a83ec8d07372ec0679dafc.png"></td><td></td><td></td></tr><tr><td>结论分析与体会： 通过本次实验，学会了用hexo和GitHub搭建属于自己的个人博客，在实验过程中遇到了hexo下载失败的问题，其实是下载源的问题，耽误了不少时间，更换了官网下载源就解决了。</td><td></td><td></td></tr></tbody></table>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/03/26/hello-world/"/>
     <url>/2024/03/26/hello-world/</url>
